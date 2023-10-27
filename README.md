@@ -1,0 +1,2 @@
+# fun-projects
+These are some fun smaller projects I have made over the past 5 years. Some of these projects I made when I was 13 and some of them I have made in the past couple of months. Some of these projects were created to spam my brother with hundreds and thousands of texts and emails. Some of these projects helped me grow as a programmer, forcing me to tackle difficult and fascinating projects and making me find ways to find resources in order to succeed. I hope you enjoy taking a look around!
